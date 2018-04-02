@@ -8,6 +8,11 @@ package praktek02;
 public class segitiga {
     double alas;
     double tinggi;
+
+    public segitiga() {
+        alas = 6;
+        tinggi = 6;
+    }
     
     void cetakInfo(){
        System.out.println("=================");      
