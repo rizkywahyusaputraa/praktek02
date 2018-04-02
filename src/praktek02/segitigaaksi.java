@@ -9,6 +9,8 @@ public class segitigaaksi {
         r1.tinggi = 6;
         
         r1.cetakInfo();
+        System.out.println("Luas segitiga ="+r1.hitungLuas());
+    }
         
     }
  

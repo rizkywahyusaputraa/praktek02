@@ -15,5 +15,13 @@ public class segitiga {
        System.out.println("tinggi :"+tinggi);
        System.out.println("=================");
     }
+       
+       double hitungLuas(){
+        double luas;
+        luas=alas*tinggi;
+        return luas;
+        
+    }
+    }
     
 }
