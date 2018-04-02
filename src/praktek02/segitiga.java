@@ -10,8 +10,8 @@ public class segitiga {
     double tinggi;
 
     public segitiga() {
-        alas = 6;
-        tinggi = 6;
+        alas=6;
+        tinggi=6;
     }
     
     void cetakInfo(){
