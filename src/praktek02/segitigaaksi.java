@@ -8,6 +8,8 @@ public class segitigaaksi {
         r1.alas = 5;
         r1.tinggi = 6;
         
+        r1.cetakInfo();
+        
     }
  
 }
