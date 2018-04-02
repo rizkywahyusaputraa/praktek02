@@ -20,6 +20,10 @@ public class segitiga {
         double luas;
         luas=alas*tinggi;
         return luas;
+       }
+       
+       void cetakLuas(){
+           System.out.println("Luas adalah:"+hitunglahLuas());
         
     }
     }
