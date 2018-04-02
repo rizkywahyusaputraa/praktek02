@@ -10,6 +10,7 @@ public class segitigaaksi {
         
         r1.cetakInfo();
         System.out.println("Luas segitiga ="+r1.hitungLuas());
+        
     }
         
     }
