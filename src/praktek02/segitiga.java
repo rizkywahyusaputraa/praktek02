@@ -6,8 +6,10 @@
 package praktek02;
 
 public class segitiga {
+    double alas;
     double tinggi;
     
+    void cetakInfo(){
        System.out.println("=================");      
        System.out.println("alas :"+alas);
        System.out.println("tinggi :"+tinggi);
