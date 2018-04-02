@@ -15,8 +15,10 @@ public class segitigaaksi {
         
         segitiga r2 =  new segitiga();
         r2.cetakInfo();
+        
+        segitiga r3 = new segitiga(50.30);
+        r3.cetakInfo();
     }
         
     }
  
-}

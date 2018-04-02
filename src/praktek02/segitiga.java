@@ -13,6 +13,13 @@ public class segitiga {
         alas=6;
         tinggi=6;
     }
+
+    public segitiga(double alas, double tinggi) {
+        this.alas = alas;
+        this.tinggi = tinggi;
+    }
+
+   
     
     void cetakInfo(){
        System.out.println("=================");      
